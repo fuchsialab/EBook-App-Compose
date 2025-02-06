@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270278640442",
+    "project_id": "ebook-app-203c7",
+    "storage_bucket": "ebook-app-203c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270278640442:android:29994a02131a3b539ec603",
+        "android_client_info": {
+          "package_name": "com.fuchsia.ebookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6jYgUIH77gVpu1qqESXt8wzZWXiDpbIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
